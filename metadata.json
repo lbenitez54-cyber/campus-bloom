@@ -1,0 +1,8 @@
+{
+  "name": "Remix CampusBloom",
+  "description": "Plataforma académica y organizador universitario con estética botánica, cronograma, asistencia, widget lo-fi y materias de medicina",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
